@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <configuration default="false" name="TestCreateClock in clock_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="go" />
+      <working_directory value="$MODULE_DIR$/" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <pattern value="^TestCreateClock$" />
+      <method />
+    </configuration>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Go SDK" level="project" />
+    <orderEntry type="library" name="GOPATH &lt;go&gt;" level="project" />
+  </component>
+</module>
